@@ -6,7 +6,7 @@ GitHub Searcher (GHS) is a Chrome extension that allows you to search GitHub rep
 
 ## Install
 
-
+Download and install from [source](https://github.com/justlorain/ghs/releases).
 
 ## Usage
 
