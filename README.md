@@ -14,6 +14,10 @@ Download and install from [source](https://github.com/justlorain/ghs/releases).
 2. Select `Search in Current Tab` or `Search in New Tab` from the `GitHub Searcher` option group in the right-click menu;
 3. View your search result;
 
+## Blogs
+
+- [I Created a Chrome Extension in 15 Minutes with Zero Front-End Knowledge Using GPT](https://dev.to/justlorain/i-created-a-chrome-extension-in-15-minutes-with-zero-front-end-knowledge-using-gpt-33df) | [中文](https://juejin.cn/post/7276750877251076152)
+
 ## License
 
 GHS is distributed under the [Apache License 2.0](./LICENSE).
