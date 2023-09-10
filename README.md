@@ -16,4 +16,4 @@ Download and install from [source](https://github.com/justlorain/ghs/releases).
 
 ## License
 
-INQUISITOR is distributed under the [Apache License 2.0](./LICENSE).
+GHS is distributed under the [Apache License 2.0](./LICENSE).
