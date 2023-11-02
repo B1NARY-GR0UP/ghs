@@ -21,3 +21,11 @@ Download and install from [source](https://github.com/justlorain/ghs/releases).
 ## License
 
 GHS is distributed under the [Apache License 2.0](./LICENSE).
+
+## ECOLOGY
+
+<p align="center">
+<img src="https://github.com/justlorain/justlorain/blob/main/images/MYLS.png" alt="MYLS"/>
+<br/><br/>
+GHS is a Subproject of the <a href="https://github.com/B1NARY-GR0UP">Make Your Life Simpler</a>
+</p>
