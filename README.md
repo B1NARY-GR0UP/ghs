@@ -1,5 +1,3 @@
-# GHS - GitHub Searcher
-
 ![GHS](images/GHS.png)
 
 GitHub Searcher (GHS) is a Chrome extension that allows you to search GitHub repositories from selected text.
